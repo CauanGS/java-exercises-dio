@@ -1,6 +1,6 @@
 package modelo.ex01;
 
-public class IngressoFamilia extends Ingresso{
+public final class IngressoFamilia extends Ingresso{
     private int numeroPessoas;
 
     public IngressoFamilia(float valor, String nomeFilme, boolean isDublado) {

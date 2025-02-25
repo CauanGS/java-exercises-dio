@@ -1,6 +1,6 @@
 package modelo.ex01;
 
-public class MeiaEntrada extends Ingresso{
+public final class MeiaEntrada extends Ingresso{
     public MeiaEntrada(float valor, String nomeFilme, boolean isDublado) {
         super(valor, nomeFilme, isDublado);
     }

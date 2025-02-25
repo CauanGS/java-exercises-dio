@@ -1,6 +1,6 @@
 package modelo.ex02;
 
-public abstract class Usuario {
+public sealed class Usuario permits Atendente, Gerente, Vendedor {
     private String nome;
     private String email;
     private String senha;

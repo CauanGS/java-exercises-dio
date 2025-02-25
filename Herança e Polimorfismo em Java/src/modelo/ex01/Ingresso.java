@@ -1,6 +1,6 @@
 package modelo.ex01;
 
-public abstract class Ingresso {
+public sealed abstract class Ingresso permits IngressoFamilia, MeiaEntrada {
     private float valor;
     private String nomeFilme;
     private boolean isDublado;
