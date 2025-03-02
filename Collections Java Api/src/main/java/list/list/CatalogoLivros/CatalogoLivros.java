@@ -4,7 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CatalogoLivros {
-    List<Livro> listaLivros = new ArrayList<>();
+    List<Livro> listaLivros;
+
+    public CatalogoLivros() {
+        this.listaLivros = new ArrayList<>();
+    }
 
     public void adicionarLivro(Livro livro){
         listaLivros.add(livro);
