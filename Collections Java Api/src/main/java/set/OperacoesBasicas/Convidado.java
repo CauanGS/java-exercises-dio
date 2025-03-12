@@ -1,4 +1,4 @@
-package main.java.list.set.OperacoesBasicas;
+package main.java.set.OperacoesBasicas;
 
 public class Convidado {
     private String nome;
