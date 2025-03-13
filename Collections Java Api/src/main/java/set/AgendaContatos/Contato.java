@@ -1,10 +1,10 @@
 package main.java.set.AgendaContatos;
 
-public class Contatos {
+public class Contato {
     private String nome;
     private int telefone;
 
-    public Contatos(String nome, int telefone) {
+    public Contato(String nome, int telefone) {
         this.nome = nome;
         this.telefone = telefone;
     }

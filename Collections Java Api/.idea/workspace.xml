@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c7df625-fbbf-4e4e-93a2-05fd4b2bc124" name="Changes" comment="" />
+    <list default="true" id="9c7df625-fbbf-4e4e-93a2-05fd4b2bc124" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/list/CatalogoLivros/CatalogoLivros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/list/CatalogoLivros/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/list/OperacoesBasicas/ListaTarefas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/list/OperacoesBasicas/Tarefa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/list/Ordenacao/ComparatorPorAltura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/list/Ordenacao/OrdenacaoPessoas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/list/Ordenacao/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/set/AgendaContatos/AgendaContatos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/set/AgendaContatos/Contatos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/set/OperacoesBasicas/ConjuntoConvidados.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Collections Java Api/main/java/list/set/OperacoesBasicas/Convidado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/AgendaContatos/AgendaContatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/AgendaContatos/AgendaContatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/set/AgendaContatos/Contatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/set/AgendaContatos/Contato.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +60,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AgendaContatos.executor": "Run",
+    "Application.CadastroProdutos.executor": "Run",
     "Application.CatalogoLivros.executor": "Run",
     "Application.ConjuntoConvidados.executor": "Run",
     "Application.ListaTarefas.executor": "Run",
