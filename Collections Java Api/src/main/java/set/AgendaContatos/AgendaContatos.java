@@ -18,7 +18,7 @@ public class AgendaContatos {
         System.out.println(contatos);
     }
 
-    private Set<Contato> pesquisarPorNome(String nome){
+    public Set<Contato> pesquisarPorNome(String nome){
         Set<Contato> contatosEncontrados = new HashSet<>();
         for(Contato c: contatos){
             if(c.getNome().equals(nome)){
@@ -28,7 +28,7 @@ public class AgendaContatos {
         return contatosEncontrados;
     }
 
-    private Contato atualizarNumeroContato(String nome, int novoNumero){
+    public Contato atualizarNumeroContato(String nome, int novoNumero){
         Contato contatoAtualizado = null;
         for(Contato c: contatos){
             if(c.getNome().equals(nome)){
