@@ -34,7 +34,7 @@ public class AgendaContatos {
 
     public static void main(String[] args) {
         AgendaContatos agendaContatos = new AgendaContatos();
-        
+
         agendaContatos.adicionarContato("Cauan", 995650);
         agendaContatos.adicionarContato("Cauan G", 995654);
         agendaContatos.adicionarContato("Cauan S", 995656);
